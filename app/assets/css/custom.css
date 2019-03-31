@@ -4,6 +4,7 @@ md-dialog{ width:50%; }
 .m-b-0px{ margin-bottom:0px; }
 .md-info{ background-color:#2196F3 !important; color:#ffffff !important; }
 .md-danger{ background-color:#D32F2F !important; color:#ffffff !important; }
+.md-paging{ background-color:rgb(40,53,147) !important; color:#ffffff !important; }
 .w-5-pct{ width:5%; }
 .w-10-pct{ width:10%; }
 .w-20-pct{ width:20%; }
